@@ -8,7 +8,7 @@ Set my configuration for kitty.
 - You are free to use it on your own risk.
 
 
-## Ubuntu
+## Ubuntu 20.04 LTS
 
 ```bash
 sudo apt update && sudo apt install kitty
