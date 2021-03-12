@@ -1,5 +1,7 @@
 # kitty-set-my-conf
 
+![ci_workflow](https://github.com/edijon/kitty-set-my-conf/actions/workflows/main.yml/badge.svg)
+
 Set my configuration for kitty.
 > open-source GPU based terminal
 
